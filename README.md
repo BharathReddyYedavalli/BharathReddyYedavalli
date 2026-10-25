@@ -12,5 +12,3 @@
     </td>
   </tr>
 </table>
-
-<sub>Note: GitHub's contribution calendar includes more than commits (such as pull requests and issues), so its yearly contribution total is not the same as the commit count shown above. Language percentages reflect repository code size, including Jupyter notebooks, rather than programming proficiency.</sub>
